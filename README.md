@@ -1,1 +1,1 @@
-moved to https://codeberg.org/ch1ebak/kitty-themes
+moved to https://codeberg.org/chlebak/kitty-themes
